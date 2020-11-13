@@ -1,0 +1,12 @@
+body {
+  background: rgb(211, 249, 250);
+  margin: 0;
+
+}
+
+.center {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,15 @@
+.table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #6bb3f7;
+  color: white;
+}
+.table td,
+.table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+.table tr:hover {
+  background-color: rgb(154, 247, 247);
+}
